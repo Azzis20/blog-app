@@ -34,5 +34,5 @@ if (isset($_POST['submit'])) {
   <input type="file" name="image"><br><br>
   <input type="submit" name="submit" value="Create Post">
 </form>
-<a href="index.php">Back to blog</a>
+<a href="../index.php">Back to blog</a>
 
